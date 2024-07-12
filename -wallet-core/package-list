@@ -885,7 +885,7 @@ $dokka.location:wallet.core.jni/StoredKey/removeAccountForCoin/#CoinType/Pointin
 $dokka.location:wallet.core.jni/StoredKey/removeAccountForCoinDerivation/#CoinType#Derivation/PointingToDeclaration/-wallet-core/wallet.core.jni/-stored-key/remove-account-for-coin-derivation.html
 $dokka.location:wallet.core.jni/StoredKey/removeAccountForCoinDerivationPath/#CoinType#java.lang.String/PointingToDeclaration/-wallet-core/wallet.core.jni/-stored-key/remove-account-for-coin-derivation-path.html
 $dokka.location:wallet.core.jni/StoredKey/store/#java.lang.String/PointingToDeclaration/-wallet-core/wallet.core.jni/-stored-key/store.html
-$dokka.location:wallet.core.jni/StoredKey/updateAddress/#byte[]#CoinType/PointingToDeclaration/-wallet-core/wallet.core.jni/-stored-key/update-address.html
+$dokka.location:wallet.core.jni/StoredKey/updateAddress/#CoinType/PointingToDeclaration/-wallet-core/wallet.core.jni/-stored-key/update-address.html
 $dokka.location:wallet.core.jni/StoredKey/wallet/#byte[]/PointingToDeclaration/-wallet-core/wallet.core.jni/-stored-key/wallet.html
 $dokka.location:wallet.core.jni/StoredKeyEncryption.AES128CBC///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-wallet-core/wallet.core.jni/-stored-key-encryption/-a-e-s128-c-b-c/index.html
 $dokka.location:wallet.core.jni/StoredKeyEncryption.AES128CTR///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-wallet-core/wallet.core.jni/-stored-key-encryption/-a-e-s128-c-t-r/index.html
